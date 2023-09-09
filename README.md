@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aaron H
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aaron H
 ===============================================================================================================================
 
 Back-End Developer, Lifelong Learner, Looking for the next chapter
@@ -9,7 +9,7 @@ Started with manufacturing and logistics, moved into Industrial Chemical Operati
 *   🌍  I'm based in Northeast Tennessee
 *   ✉️  You can contact me at [aaron.hooper406@outlook.com](mailto:aaron.hooper406@outlook.com)
 *   🧠  I'm learning Django, C++, and more.
-*   🤝  I'm open to collaborating on Mostly any projects, always looking to improve my toolbox!
+*   🤝  I'm open to collaborating on nearly any projects, always looking to improve my toolbox!
 *   ⚡  Father of two wonderful kids
 
 Skills 
